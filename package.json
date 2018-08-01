@@ -5,10 +5,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Maya Sopiah Lubis",
   "license": "ISC",
-  "description": "",
+  "description": "My first math calculator with Node.JS",
   "dependencies": {
     "colors": "^1.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayasopiie/calculator-math-node-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mayasopiie/calculator-math-node-js/issues"
+  },
+  "homepage": "https://github.com/mayasopiie/calculator-math-node-js#readme",
+  "keywords": [
+    "javascript",
+    "node.js"
+  ]
 }
